@@ -16,10 +16,10 @@ permalink: /:year/:month/:day/:title/
 # other links
 twitter_username: Liuwang0330
 facebook_username: Liuwang0330
-github_username:  Liuwang0330
+github_username:  Liu0330
 email: liuwang0330@outlook.com
-weibo_username: 刘旺学长
-zhihu_username: 刘旺学长
+weibo_username: 刘旺學長
+zhihu_username: 刘旺學長
 linkedIn_username: Liuwang0330
 dribbble_username:
 
@@ -33,18 +33,20 @@ description_footer: 来自刘旺学长的个人专栏！
 # using Gitalk
 gitalk:
   enable: true    #是否开启Gitalk评论
-  clientID: 52bbb620d9680fd85254                            #生成的clientID
-  clientSecret: d92cec378527800b0816d1bdd26dc71eb5dd0ccd    #生成的clientSecret
-  repo: XinYao1994.github.io    #仓库名称
-  owner: Liuwang0330    #github用户名
-  admin: Liuwang0330
+  clientID: 37c6f32eae2c0e39acaf                            #生成的clientID
+  clientSecret: fcd9c72a254166dfe2e93a1c704581f1874434ef    #生成的clientSecret
+  repo: Liu0330.github.io    #仓库名称
+  owner: Liu0330    #github用户名
+  admin: Liu0330
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 # statistic analysis 统计代码
 # 百度统计 id，将统计代码替换为自己的百度统计id，即
-# hm.src = "//hm.baidu.com/hm.js?xxxxxxxxxxxx";
+# hm.src = "//hm.baidu.com/hm.js?e8142258e80b1edff4743d766b94594f";
 # xxxxx字符串
-# baidu_tongji_id: 1cc1fc4b4b456bf7c99ce80aec5bf009
+baidu_tongji_id: e8142258e80b1edff4743d766b94594f
+
+
 google_analytics_id: UA-126298955-1 # google 分析追踪id
 ga_domain: auto
 
