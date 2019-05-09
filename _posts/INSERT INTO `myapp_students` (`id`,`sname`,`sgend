@@ -1,0 +1,4 @@
+ INSERT INTO `myapp_students` (`id`,`sname`,`sgender`,`sminzu`,`sbir`,`scontend`,`shome`,`sidcard`,`sschnum`,`stel`,`steacher`) VALUES ('1','曹佳琪','0','汉族','19960705','共青团员','河北省唐山市','130225199607052738','150751001','15614144467','武少广');
+
+ INSERT INTO `myapp_students` (`sname`,`sgender`,`sminzu`,`sbir`,`scontend`,`shome`,`sidcard`,`sschnum`,`stel`,`steacher`) VALUES ('樊学成','0','汉族','19970226','群众','河北省行唐县','130125199702261516','150751003','13933086590','武少广');
+
